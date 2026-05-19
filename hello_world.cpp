@@ -1,4 +1,4 @@
-// This is a new comment for PR test
+// New comment for PR test
 #include <iostream>
 
 int main() {
